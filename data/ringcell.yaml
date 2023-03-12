@@ -1,0 +1,9 @@
+path: D:\yolov5\dataset
+train: images/train
+val: images/val
+test:
+
+nc: 1
+# Classes
+names:
+  0: rcc
